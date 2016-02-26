@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-findoneorfail",
+  "version": "0.0.1",
+  "description": "Tiny mongoose plugin which adds findOneOrFail method to a model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "author": "Pavel Turanchoks <ipuncho@gmail.com>",
+  "license": "ISC"
+}
